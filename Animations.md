@@ -19,9 +19,6 @@ Hawk-Dove Game Random Hawks Payoff 0.5
 Hawk-Dove Game Random Hawks Payoff 2.0
 <img width="900" height="500" alt="Image" src="https://github.com/user-attachments/assets/19a45cbd-7d76-4de0-8a09-fd10d64fb9e1" />
 <br>
-Hawk-Dove Game Centre Hawk Payoff -3.25
-<img width="900" height="500" alt="Image" src="https://github.com/user-attachments/assets/1f97805c-d10e-41b6-8bb7-129ab0291200" />
-<br>
 Hawk-Dove Game Centre Hawk Payoff -1.0
 <img width="900" height="500" alt="Image" src="https://github.com/user-attachments/assets/19f77fcc-4d84-479d-9451-57992f5e1140" />
 <br>
