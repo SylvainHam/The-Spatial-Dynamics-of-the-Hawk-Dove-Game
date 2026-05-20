@@ -1,4 +1,4 @@
-Prisoner's dilemma
+Prisoner's dilemma (Image above)
 <img width="398" height="400" alt="Image" src="https://github.com/user-attachments/assets/cc10eab8-9236-4346-90d7-983fe251aed6" />
 <br>
 Hawk-Dove Game Random Hawks Payoff -10.0
